@@ -64,7 +64,7 @@ body {
     opacity: 1;
 }
 
-.form-header {
+.form-head {
     font: normal normal bold 24px/37px Roboto;
     letter-spacing: 0px;
     color: #42515f;
@@ -151,12 +151,14 @@ select {
 }
 
 .button {
+    border-radius: 10px;
+    font-weight: bolder;
     font-size: 20px;
     font-family: Roboto;
     letter-spacing: 0;
-    color: #42515F;
+    color: #060606;
     opacity: 1;
-    background-color: transparent;
+    background-color: #0693e3;;
     border: none;
     font-weight: 400;
     min-width: 140px;
